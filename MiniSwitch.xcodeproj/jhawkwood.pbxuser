@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {632, 541}}";
+			sepNavSelRange = "{99, 170}";
+			sepNavVisRange = "{0, 269}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 9EFC4BD50CE5228E00DA3643 /* MiniSwitch */;
+		activeTarget = 8D1107260486CEB800E47090 /* MiniSwitch */;
+		codeSenseManager = 9EFC4BE00CE522A900DA3643 /* Code sense */;
+		executables = (
+			9EFC4BD50CE5228E00DA3643 /* MiniSwitch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					454,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286158234;
+			PBXWorkspaceStateSaveDate = 286158234;
+		};
+		perUserProjectItems = {
+			9E9806AB110E426B005427D3 /* PBXTextBookmark */ = 9E9806AB110E426B005427D3 /* PBXTextBookmark */;
+			9E9806AC110E426B005427D3 /* PBXTextBookmark */ = 9E9806AC110E426B005427D3 /* PBXTextBookmark */;
+			9E9806AE110E426B005427D3 /* PBXTextBookmark */ = 9E9806AE110E426B005427D3 /* PBXTextBookmark */;
+			9E98072C110E7230005427D3 /* PBXTextBookmark */ = 9E98072C110E7230005427D3 /* PBXTextBookmark */;
+			9EFC4BD80CE522A900DA3643 /* PBXTextBookmark */ = 9EFC4BD80CE522A900DA3643 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9EFC4BDF0CE522A900DA3643 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* MiniSwitch */ = {
+		activeExec = 0;
+		executables = (
+			9EFC4BD50CE5228E00DA3643 /* MiniSwitch */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {632, 541}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 844}";
+		};
+	};
+	9E9806AB110E426B005427D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 4";
+		rLen = 170;
+		rLoc = 99;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 0;
+	};
+	9E9806AC110E426B005427D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF2575920AC2F418000F3CA5 /* appControl.h */;
+		name = "appControl.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1133;
+		vrLoc = 333;
+	};
+	9E9806AE110E426B005427D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF2575930AC2F418000F3CA5 /* appControl.m */;
+		name = "appControl.m: 596";
+		rLen = 967;
+		rLoc = 25936;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 24994;
+	};
+	9E98072C110E7230005427D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF2575930AC2F418000F3CA5 /* appControl.m */;
+		name = "appControl.m: 551";
+		rLen = 53;
+		rLoc = 23814;
+		rType = 0;
+		vrLen = 1451;
+		vrLoc = 23469;
+	};
+	9EFC4BD50CE5228E00DA3643 /* MiniSwitch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MiniSwitch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9EFC4BD80CE522A900DA3643 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = "Info.plist: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	9EFC4BDF0CE522A900DA3643 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9EFC4BE00CE522A900DA3643 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BF2575920AC2F418000F3CA5 /* appControl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {632, 1651}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{333, 1133}";
+		};
+	};
+	BF2575930AC2F418000F3CA5 /* appControl.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"const AppleEvent * theAppleEvent\";\n            r = \"{26464, 36}\";\n            s = 1;\n        },\n                {\n            l = \"AppleEvent * reply\";\n            r = \"{26501, 22}\";\n            s = 1;\n        },\n                {\n            l = \"AESendMode sendMode\";\n            r = \"{26524, 23}\";\n            s = 1;\n        },\n                {\n            l = \"AESendPriority sendPriority\";\n            r = \"{26548, 31}\";\n            s = 1;\n        },\n                {\n            l = \"long timeOutInTicks\";\n            r = \"{26580, 23}\";\n            s = 1;\n        },\n                {\n            l = \"AEIdleUPP idleProc\";\n            r = \"{26604, 22}\";\n            s = 1;\n        },\n                {\n            l = \"AEFilterUPP filterProc\";\n            r = \"{26627, 26}\";\n            s = 1;\n        },\n                {\n            l = \"const AppleEvent * event\";\n            r = \"{26673, 28}\";\n            s = 1;\n        },\n                {\n            l = \"AppleEvent * reply\";\n            r = \"{26702, 22}\";\n            s = 1;\n        },\n                {\n            l = \"AESendMode sendMode\";\n            r = \"{26725, 23}\";\n            s = 1;\n        },\n                {\n            l = \"long timeOutInTicks\";\n            r = \"{26749, 23}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 61221}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {632, 19604}}";
+			sepNavSelRange = "{23814, 53}";
+			sepNavVisRange = "{23469, 1451}";
+		};
+	};
+}

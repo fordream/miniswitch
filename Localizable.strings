@@ -1,0 +1,98 @@
+// General Button strings
+"okay" = "Okay";
+"quit" = "Quit";
+"cancel" = "Cancel";
+"close" = "Close";
+"skip" = "Skip";
+"none" = "(none)";
+"continue" = "Continue";
+"select" = "Select";
+
+// prepMSDir strings
+"mailSwfoundT" = "MailSwitch Folder Found";
+"mailSwfoundM" = "MiniSwitch must reorganize and rename your \"MailSwitch\" folder (to \"MiniSwitch\") for proper usage.  All files used my MailSwitch will be preserved in the \"MiniSwitch\" folder.  Is this acceptable?";
+
+"welcomeT" = "Welcome to MiniSwitch";
+"welcomeM" = "MiniSwitch: A MailSwitch Variation\n\nIn the Preferences window, set which applications you would like switchable, and the files that you want switched for those applications.";
+"moreInfo" = "More info...";
+
+"explanationT" = "More info on MiniSwitch";
+"explanationM" = "MiniSwitch is like your Mac's Fast User Switching, only on a much smaller level.\n\nMany applications rely on helper files to work properly.  Those files can be moved around while the application is not running.  When launched again, the application will look in the same place and use what files are there.  For example, Apple's Mail uses a preference file, a Mail folder, and other various files, to run properly.  If these files are moved, and new one's moved in to there place, Mail will use them instead.\n\nMiniSwitch takes advantage of this situation.  You set up a list of users, and a list of applications and files to be switched out for those users.\n\nWhen a user is switched to, all listed applications are quit, the selected user's files are moved into the locations where the applications expect them to be, and the previous user's files are moved back to their MiniSwitch folder.  When launched again, those applications will see the new user's files.";
+
+// Error messages
+"msErrorT" = "MiniSwitch Error";
+"msWarningT" = "MiniSwitch Warning";
+"delOtherCUP" = "MiniSwitch could not delete extra Current User pointers, and had the following error:\n\t%@\nPlease try to manually delete this file.";
+"findCUFail" = "MiniSwitch could not find a Current User, and will now create a new user to be the current user.";
+
+"movePathFail" = "MiniSwitch failed to rename the folder \"MailSwitch\" to \"MiniSwitch\" in \"~/Library/\". The following error occurred:\n\n%@\n\nPlease check your permissions and try again.";
+"createPathFail" = "MiniSwitch failed to create the folder \"MiniSwitch\"in \"~/Library/\". Please check your permissions and try again.";
+"launchAppFail" = "MiniSwitch failed to launch %@.  Please try launching %@ from the Finder.";
+"mainu" = "Main User";
+"newu" = "New User";
+"createCUPFail" = "MiniSwitch failed to create a Current User Pointer at %@.  The following error occurred:\n\n%@";
+"createUserFail" = "MiniSwitch failed to create a new user called %@";
+"genFailWithError" = "The following error occurred:\n\n%@\n\nPlease check your permissions and try again.";
+"delCUSelected1" = "The selected user %@ is the current user and cannot be deleted. Do you want to skip this user and delete other selected users?";
+"delCUSelected2" = "The selected user %@ is the current user and cannot be deleted.  Please switch to another user first before deleting this user.";
+"delUsersConf" = "%d user(s) are about to be moved to the Trash.  Are you sure you want to delete the user(s)?";
+"delUserFail" = "MiniSwitch failed to delete user %@.  The following error occurred:\n\n%@";
+"changeNameExists" = "The user %@ already exists.  Please try a different name.";
+"changeNameFail" = "MiniSwitch failed to change the name of user %@ to %@.  The following error occurred:\n\n%@";
+
+"aeErrFail" = "AppleEvent failed to quit Process %d, with error: %@";
+"quitAppFail" = "MiniSwitch failed to quit the selected applications. Following are the errors:\n\t%@\nPlease try again.";
+"quitAppTimeOut" = "Quiting applications has timed out with the application(s) %@ still running.  Please try to manually quit the application(s).";
+
+"moveLogRetCUStart" = "Started returning current user %@ files.";
+"moveLogRetCUFin" = "Finished returning current user %@ files.";
+"moveLogDirFail" = "Failed to create directory %@. Error:";
+"moveLogRetCUFileFail" = "Failed to return file %@. Error:";
+"moveLogRetCUFileSuc" = "Successfully returned file %@.";
+"moveLogDelSLSuc" = "Successfully deleted symbolic link at %@.";
+"moveLogDelSLFail" = "Failed to delete symbolic link at %@. Error:";
+"moveLogDelCUFail" = "Failed to delete Current User Pointer from user %@. Error:";
+"moveLogCreateNewCUFail" = "Failed to create Current User Pointer for user %@. Error:";
+
+"moveLogPutNewStart" = "Started placing user %@ files.";
+"moveLogPutNewFin" = "Finished placing user %@ files.";
+"moveLogPutNewFileFail" = "Failed to place file %@. Error:";
+"moveLogPutNewFileSuc" = "Successfully placed file %@.";
+"moveLogCreSLSuc" = "Successfully created symbolic link at %@.";
+"moveLogCreSLFail" = "Failed to create symbolic link at %@. Error:";
+"switchUserFail" = "MiniSwitch failed to switch to the selected user.  Following is a list of actions successfully completed, and the error that occurred:\n\t%@\nPlease manually undo the successful actions (in reverse order) before trying the switch again.";
+
+"updateRenameSuc" = "Renamed folder \"MailSwitch\" in ~/Library to \"MiniSwitch\".";
+"updateLogStartUser" = "Started updating files for user %@.";
+"updateLogMoveFail" = "Failed to move %@ to %@. Error:";
+"updateUserFail" = "MiniSwitch failed to update the all the users from MailSwitch.  Following is a list of actions successfully completed, and the error that occurred:\n\t%@\nPlease manually undo the successful actions (in reverse order) before trying the to use MiniSwitch again.";
+
+"cu" = "CU"; // abbreviation of Current User
+
+// toolbar itemForItemIdentifier
+// "tbNewUserLab" = "New User";
+// "tbNewUserTip" = "Create a new user.";
+// "tbDeleteUserLab" = "Delete User(s)";
+// "tbDeleteUserTip" = "Delete selected user(s).";
+// "tbSwitchUserLab" = "Switch User";
+// "tbSwitchUserTip" = "Set selected user as current.";
+// "tbOpenAppLab" = "Open %@";
+// "tbOpenAppTip" = "Open %@ with selected user.";
+
+"userwindow" = "User Window...";
+
+// preferences
+"selAppT" = "Select application to add to switch list:";
+"selFilesT" = "Select files to add to %@:";
+"appExistsT" = "Selected application already switchable";
+"appExistsM" = "The application \"%@\" is already included in the switchable items list, and cannot be added again.";
+"fileExistsT" = "Selected files already switchable";
+"fileExistsM" = "Some of the selected files are already included in the switchable items list, and were not added to the list again.";
+"delSwT" = "Remove Files/Applications from MiniSwitch";
+"delSwM" = "The selected file(s) and/or application(s) will be removed from the switch list, but the users' file will remain in their MiniSwitch folders.  The current user's files will be left in place for use by the system.";
+
+// tooltips
+"addUserTT" = "Add new user";
+"delUserTT" = "Delete selected user(s)";
+"switchUserTT" = "Switch to selected user";
+"delSwitchTT" = "Remove selected switchable file(s)/application(s)";

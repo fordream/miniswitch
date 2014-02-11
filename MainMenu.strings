@@ -1,0 +1,140 @@
+/* MiniSwitch.strings for version 1.0.0 */
+
+/* NSButton (+) : <title:+> (oid:321) */
+"+" = "+";
+
+/* NSButton (-) : <title:-> (oid:320) */
+"-" = "-";
+
+/* NSMenuItem : <title:About MiniSwitch> (oid:58) */
+"About MiniSwitch" = "About MiniSwitch";
+
+/* NSMenuItem : <title:Add application> (oid:226) */
+"Add application" = "Add application";
+
+/* NSMenuItem : <title:Add file(s) to selected application> (oid:225) */
+"Add file(s) to selected application" = "Add file(s) to selected application";
+
+/* NSMenuItem : <title:All> (oid:318) */
+"All" = "All";
+
+/* NSMenuItem : <title:All applications> (oid:327) */
+"All applications" = "All applications";
+
+/* NSBox (Box) : <title:Box> (oid:291) */
+"Box" = "Box";
+
+/* NSMenuItem : <title:Bring All to Front> (oid:5) */
+"Bring All to Front" = "Bring All to Front";
+
+/* NSMenuItem : <title:Customize Toolbar...> (oid:240) */
+"Customize Toolbar..." = "Customize Toolbar...";
+
+/* NSMenuItem : <title:Delete User(s)> (oid:249) */
+"Delete User(s)" = "Delete User(s)";
+
+/* NSMenuItem : <title:File> (oid:83) */
+"File" = "File";
+
+/* NSTextField (Files are assigned to/removed from Current User when checked/unchecked.) : <title:Files are assigned to/removed from Current User when checked/unchecked.> (oid:231) */
+"Files are assigned to/removed from Current User when checked/unchecked." = "Files are assigned to/removed from Current User when checked/unchecked.";
+
+/* NSMenu : <title:Help> (oid:106) */
+"Help" = "Help";
+
+/* NSMenuItem : <title:Hide MiniSwitch> (oid:134) */
+"Hide MiniSwitch" = "Hide MiniSwitch";
+
+/* NSMenuItem : <title:Hide Others> (oid:145) */
+"Hide Others" = "Hide Others";
+
+/* NSMenuItem : <title:Hide Toolbar> (oid:241) */
+"Hide Toolbar" = "Hide Toolbar";
+
+/* NSMenuItem : <title:Item> (oid:328) */
+"Item" = "Item";
+
+/* NSMenuItem : <title:Item1> (oid:281) */
+"Item1" = "Item1";
+
+/* NSMenuItem : <title:Item2> (oid:282) */
+"Item2" = "Item2";
+
+/* NSMenuItem : <title:Item3> (oid:316) */
+"Item3" = "Item3";
+
+/* NSMenu : <title:MainMenu> (oid:29) */
+"MainMenu" = "MainMenu";
+
+/* NSMenu : <title:Menu> (oid:324) */
+"Menu" = "Menu";
+
+/* NSWindow (MiniSwitch) : <title:MiniSwitch> (oid:206) */
+"MiniSwitch" = "MiniSwitch";
+
+/* NSMenuItem : <title:MiniSwitch Help> (oid:111) */
+"MiniSwitch Help" = "MiniSwitch Help";
+
+/* NSTableColumn : <title:MiniSwitch User(s):> (oid:210) */
+"MiniSwitch User(s):" = "MiniSwitch User(s):";
+
+/* NSMenuItem : <title:Minimize> (oid:23) */
+"Minimize" = "Minimize";
+
+/* NSMenuItem : <title:New User> (oid:248) */
+"New User" = "New User";
+
+/* NSMenu : <title:Open Application> (oid:243) */
+"Open Application" = "Open Application";
+
+/* NSMenuItem : <title:Open...> (oid:325) */
+"Open..." = "Open...";
+
+/* NSMenu : <title:OtherViews> (oid:315) */
+"OtherViews" = "OtherViews";
+
+/* NSWindow (Preferences) : <title:Preferences> (oid:221) */
+"Preferences" = "Preferences";
+
+/* NSMenuItem : <title:Preferences &> (oid:129) */
+"Preferences &" = "Preferences &";
+
+/* NSMenuItem : <title:Quit MiniSwitch> (oid:136) */
+"Quit MiniSwitch" = "Quit MiniSwitch";
+
+/* NSButton (Quit when User Window is closed.) : <title:Quit when User Window is closed.> (oid:228) */
+"Quit when User Window is closed." = "Quit when User Window is closed.";
+
+/* NSTextField (Select files to switch:) : <title:Select files to switch:> (oid:229) */
+"Select files to switch:" = "Select files to switch:";
+
+/* NSMenuItem : <title:Services> (oid:131) */
+"Services" = "Services";
+
+/* NSMenuItem : <title:Show All> (oid:150) */
+"Show All" = "Show All";
+
+/* NSMenuItem : <title:Switch User> (oid:250) */
+"Switch User" = "Switch User";
+
+/* NSTableColumn : <title:Switchable Files> (oid:234) */
+"Switchable Files" = "Switchable Files";
+
+/* NSTextField (Switching from Dock should launch application:) : <title:Switching from Dock should launch application:> (oid:283) */
+"Switching from Dock should launch application:" = "Switching from Dock should launch application:";
+
+/* NSButton (Use Symbolic Links for moving folders.) : <title:Use Symbolic Links for moving folders.> (oid:290) */
+"Use Symbolic Links for moving folders." = "Use Symbolic Links for moving folders.";
+
+/* NSMenu : <title:View> (oid:239) */
+"View" = "View";
+
+/* NSMenu : <title:Window> (oid:24) */
+"Window" = "Window";
+
+/* NSMenuItem : <title:Zoom> (oid:197) */
+"Zoom" = "Zoom";
+
+/* NSMenuItem : <title:item> (oid:217) */
+"item" = "item";
+

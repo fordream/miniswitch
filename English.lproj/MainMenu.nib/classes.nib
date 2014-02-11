@@ -1,0 +1,41 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = JHDTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }, 
+        {
+            ACTIONS = {
+                AddSwFiles = id; 
+                addSwApp = id; 
+                deleteSelectedSw = id; 
+                deleteUsers = id; 
+                newUser = id; 
+                setQuitOnCloseWindow = id; 
+                showMiniSwitchWindow = id; 
+                switchAndLaunch = id; 
+                updateDockDefault = id; 
+                updateSymLinkUse = id; 
+            }; 
+            CLASS = appControl; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                addSwitchPU = id; 
+                addUserBtn = id; 
+                autoQuitCB = id; 
+                cAppMenu = id; 
+                delSwitchBtn = id; 
+                delUserBtn = id; 
+                dockPopUp = id; 
+                mAppMenu = id; 
+                miniSwitchWindow = id; 
+                prefWindow = id; 
+                switchUserBtn = id; 
+                switchableFiles = id; 
+                symlinkCB = id; 
+                userList = id; 
+                wAppMenu = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
